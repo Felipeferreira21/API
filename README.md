@@ -1,3 +1,3 @@
 # API
 
-API basica, para criar, visualizar, deletar e editar livros.
+API basica ultilizando Python e Flask, para criar, visualizar, deletar e editar livros.
